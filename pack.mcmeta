@@ -1,0 +1,30 @@
+{
+ "pack": {
+   "pack_format": 48,
+   "description": "Gen 1 ONLY"
+ },
+   "filter": {
+     "block": [
+       {
+         "namespace": "cobblemon",
+         "path": "spawn_pool_world"
+       },
+       {
+         "namespace": "cobblemon",
+         "path": "species"
+       },
+       {
+         "namespace": "cobblemon",
+         "path": "dexes"
+       },
+       {
+         "namespace": "cobblemon",
+         "path": "dex_entries"
+       },
+       {
+         "namespace": "cobblemon",
+         "path": "advancement"
+       }
+     ]
+   }
+}
