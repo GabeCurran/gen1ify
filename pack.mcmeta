@@ -24,6 +24,10 @@
        {
          "namespace": "cobblemon",
          "path": "advancement"
+       },
+       {
+         "namespace": "cobblemon",
+         "path": "loot_table/fossils"
        }
      ]
    }
