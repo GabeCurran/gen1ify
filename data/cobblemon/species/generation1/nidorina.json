@@ -158,6 +158,7 @@
         "tutor:thunderbolt",
         "tutor:waterpulse"
     ],
+    "preEvolution": "nidoranf",
     "evolutions": [
         {
             "id": "nidorina_nidoqueen",
